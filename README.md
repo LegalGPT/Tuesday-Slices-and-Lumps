@@ -6,7 +6,9 @@
 ### 2. 在code页面上传文档（如pdf或word）：add file -> upload files  
 ### 3. 在Discussions页面填写工作日志：每个研究主题一个discussion，通过comment交流  
     > 轻量级排版，可以熟悉一下markdown语法：https://markdown.com.cn/basic-syntax/  
-### 4. 在Watch中选择提醒方式：确保更新能够在注册邮箱中即时收到  
+### 4. 在Watch中选择提醒方式：确保更新能够在注册邮箱中即时收到（`勾选discussion`）  
+![image](https://github.com/LegalGPT/Tuesday-Slices-and-Lumps/assets/85102787/331326f4-4e24-4d57-a6f5-47611e3c6e65)
+
 ### 5. 电脑本地可以通过GitHub Desktop同步code页面的更新内容  
 
 ## （二）讨论内容
